@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: rgba(0, 0, 255, 0.495);
+
+padding: 20px;
+}
+a{
+    display: block;
+
+}
+main{
+    background-color: aqua;
+}
